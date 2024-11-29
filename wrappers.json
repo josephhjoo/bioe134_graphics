@@ -1,0 +1,56 @@
+
+{
+    "org.c9.function.drawings.rectangle": {
+        "id": "org.c9.function.drawings.rectangle",
+        "name": "rectangle", 
+        "description": "draws a rectangle and returns its coordinate information, fill color, outline color, and width", 
+        "type": "function", 
+        "keywords": ["draw", "shape", "coordinates", "rectangle"], 
+        "date_created": "2024-11-21T00:00:00Z", 
+        "date_last_modified": "2024-11-21T00:00:00Z"
+        },
+
+
+    "org.c9.function.drawings.ellipse": {
+        "id": "org.c9.function.drawings.ellipse",
+        "name": "ellipse", 
+        "description": "draws an ellipse and returns its coordinate information, fill color, outline color, and width", 
+        "type": "function", 
+        "keywords": ["draw", "coordinates", "shape", "ellipse"], 
+        "date_created": "2024-11-21T00:00:00Z", 
+        "date_last_modified": "2024-11-21T00:00:00Z"
+        },
+
+
+    "org.c9.function.drawings.line": {
+        "id": "org.c9.function.drawings.line",
+        "name": "line", 
+        "description": "draws a line and returns its coordinate information, fill color, and width", 
+        "type": "function", 
+        "keywords": ["draw", "shape", "coordinates", "line"], 
+        "date_created": "2024-11-21T00:00:00Z", 
+        "date_last_modified": "2024-11-21T00:00:00Z"
+        },
+    
+
+    "org.c9.function.drawings.text": {
+        "id": "org.c9.function.drawings.text",
+        "name": "text", 
+        "description": "draws a text box and returns its coordinate information, text content, fill color, and font", 
+        "type": "function", 
+        "keywords": ["draw", "shape", "coordinates", "text", "textbox", "words", "font"], 
+        "date_created": "2024-11-21T00:00:00Z", 
+        "date_last_modified": "2024-11-21T00:00:00Z"
+        },
+
+
+    "org.c9.function.drawings.triangle": {
+        "id": "org.c9.function.drawings.triangle",
+        "name": "triangle", 
+        "description": "draws a triangle and returns its coordinate information, fill color, and outline color", 
+        "type": "function", 
+        "keywords": ["draw", "shape", "coordinates", "triangle", "vertex", "verticies"], 
+        "date_created": "2024-11-21T00:00:00Z", 
+        "date_last_modified": "2024-11-21T00:00:00Z"
+        }
+}
